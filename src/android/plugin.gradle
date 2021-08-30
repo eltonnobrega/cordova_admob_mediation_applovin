@@ -1,0 +1,11 @@
+cdvPluginPostBuildExtras.add({
+
+  repositories {
+    mavenCentral()
+  }
+
+  dependencies {
+    implementation  'com.applovin:applovin-sdk:10.3.2'
+    implementation  'com.google.ads.mediation:applovin:10.3.2.0'
+  }
+});
