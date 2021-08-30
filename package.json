@@ -1,6 +1,6 @@
 {
   "name": "cordova_admob_mediation_applovin",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "Cordova AdMob Mediation Plugin for AppLovin",
   "scripts": {
     "version": "sync-package-version --cordova-plugin"
@@ -16,7 +16,7 @@
   "author": "eltonnobrega",
   "license": "MIT",
   "keywords": [
-    "cordova-admob-free",
+    "admob-plus-cordova",
     "cordova-android",
     "cordova-ios",
     "cordova",
